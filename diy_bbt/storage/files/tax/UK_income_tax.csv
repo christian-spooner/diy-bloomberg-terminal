@@ -1,0 +1,5 @@
+band,taxable income (£),tax rate (%)
+personal allowance,"0-12,570",0
+basic rate,"12,571-50,270",20
+higher rate,"50,271-125,140",40
+additional rate,">125,140",45

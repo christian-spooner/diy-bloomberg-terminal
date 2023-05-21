@@ -1,0 +1,11 @@
+*.sh
+__pycache__
+.mypy_cache
+.env
+_*.txt
+*.log
+.vscode
+target
+examples/
+.pytest_cache
+*.db

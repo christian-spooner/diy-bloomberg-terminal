@@ -1,0 +1,18 @@
+consistency: ticker casing, default args, lim, constants
+time frames
+test mocks
+navigation improvments
+data pipelines
+volatility
+quit graph
+chatgpt/google search
+asyncio
+supply chain
+export
+separate window
+scrapy
+function help
+ML functions
+crypto: blockchain explorer
+scrappy issues
+tax data

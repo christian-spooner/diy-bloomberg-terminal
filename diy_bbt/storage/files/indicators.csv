@@ -1,0 +1,102 @@
+AD,Accumulation/Distribution indicator measures buying and selling pressure
+ADD,Accumulation/Distribution indicator with smoothed moving averages
+ADOSC,Accumulation/Distribution oscillator measures momentum of buying and selling pressure
+ADX,Average Directional Index measures trend strength
+ADXR,Average Directional Index Rating is a smoothed version of ADX
+APO,Absolute Price Oscillator measures the difference between short and long-term moving averages
+AROON,Aroon indicator measures trend strength and potential reversals
+AROONOSC,Aroon oscillator measures the difference between Aroon(up) and Aroon(down)
+ATR,Average True Range measures market volatility
+AVG,Simple moving average of values
+AVGPRICE,Average price of a bar
+BBANDS,Bollinger Bands measure volatility and relative price levels over time
+BETA,Beta measures a stock's volatility compared to a benchmark index
+BOP,Balance of Power measures buying and selling pressure
+CCI,Commodity Channel Index measures deviation from the average price
+CEIL,Rounds values up to the nearest integer
+CMO,Chande Momentum Oscillator measures momentum of buying and selling pressure
+COPPOCK,Coppock Curve measures long-term momentum and potential trend reversals
+CORREL,Correlation coefficient measures the relationship between two assets
+CRSI,Commodity Selection Index measures the performance of a group of commodities relative to each other
+DEMA,Double Exponential Moving Average is a faster moving average
+DIV,Divide values
+DPO,Detrended Price Oscillator measures the difference between the current price and a historical moving average
+DX,Directional Movement Index measures the strength of price movement in a given direction
+EMA,Exponential Moving Average gives more weight to recent prices and reacts faster to price changes than a simple moving average
+EXP,Exponential function
+FLOOR,Rounds values down to the nearest integer
+HEIKINASHICANDLES,Heikin Ashi Candles is a type of chart that filters out market noise
+HLC3,"Average of high, low, and closing prices"
+HT_DCPERIOD,Hilbert Transform - Dominant Cycle Period measures the dominant cycle of market prices
+HT_DCPHASE,Hilbert Transform - Dominant Cycle Phase measures the dominant cycle of market prices relative to a sine wave
+HT_PHASOR,Hilbert Transform - Phasor Components measures the instantaneous phase difference between the dominant cycle of market prices and a reference sine wave
+HT_SINE,Hilbert Transform - SineWave measures the dominant cycle of market prices relative to a sine wave
+HT_TRENDLINE,Hilbert Transform - Trendline measures the dominant cycle of market prices and filters out market noise
+HT_TRENDMODE,Hilbert Transform - Trend vs Cycle Mode measures the dominant cycle of market prices relative to its trend
+ICHIMOKU,"Ichimoku Cloud is a type of chart that shows support and resistance levels, trend direction, and momentum"
+KAMA,Kaufman Adaptive Moving Average is a trend-following indicator that adjusts its sensitivity to market conditions
+KELTNER,Keltner Channel measures volatility and trend direction using average true range
+KST,Know Sure Thing indicator is a momentum oscillator that combines multiple timeframes
+LINEARREG,Linear regression line measures the slope and direction of a trend
+LINEARREGANGLE,Angle of the linear regression line
+LINEARREGINTERCEPT,Intercept of the linear regression line
+LINEARREGSLOPE,Slope of the linear regression line
+LN,Natural logarithm
+LOG10,Base-10 logarithm
+MA,Moving average of values
+MACD,Moving Average Convergence Divergence measures the difference between short and long-term moving averages and identifies trend changes
+MACD SLOPE,Slope of the MACD line
+MACDEXT,MACD with user-defined moving averages
+MAMA,"MESA Adaptive Moving Average is a fast, responsive moving average"
+MAX,Maximum value of a range of values
+MAXINDEX,Index of the highest value over a specified period
+MCGINLEY_DYNAMIC,McGinley Dynamic Indicator is a moving average that adjusts to market speed
+MEDPRICE,Median price of a bar
+MFI,Money Flow Index measures buying and selling pressure using both price and volume
+MIDPOINT,Average of the highest high and lowest low over a specified period
+MIDPRICE,"Average of the highest high and lowest low over a specified period, adjusted for the average price"
+MIN,Minimum value of a range of values
+MININDEX,Index of the lowest value over a specified period
+MINMAX,Normalizes values to a range between 0 and 1
+MINMAXINDEX,Index of the highest and lowest value over a specified period
+MINUS_DI,Minus Directional Indicator measures the strength of the downside price movement
+MINUS_DM,Minus Directional Movement measures the strength of the downside price movement
+MOM,Momentum measures the rate of change of a security's price
+MULT,Multiply values
+NATR,Normalized Average True Range measures market volatility relative to the price of the security
+OBV,On Balance Volume measures buying and selling pressure using volume
+PERCENT_B,Bollinger Bands %B measures where the last price is relative to the upper and lower Bollinger Bands
+PIVOT_POINTS_HL,"Pivot Points (High, Low, Close) measures support and resistance levels based on the high, low, and closing prices of the previous period"
+PLUS_DI,Plus Directional Indicator measures the strength of the upside price movement
+PLUS_DM,Plus Directional Movement measures the strength of the upside price movement
+PPO,Percentage Price Oscillator measures the difference between short and long-term moving averages as a percentage of the longer-term moving average
+ROC,Rate of Change measures the percentage change in price over a specified period
+ROCP,Rate of Change Percentage measures the percentage change in price over a specified period
+ROCR,Rate of Change Ratio measures the ratio of the current price to the price n periods ago
+ROCR100,Rate of Change Ratio 100 measures the percentage change in price relative to the price n periods ago
+RSI,Relative Strength Index measures the strength of a security's price action
+RVOL,Relative Volume measures the volume traded in relation to the average volume
+SAR,Parabolic SAR measures potential reversals in price direction
+SAREXT,Parabolic SAR with extended parameters
+SMA,Simple Moving Average is a widely used trend-following indicator
+SQRT,Square root
+STDDEV,Standard deviation measures the dispersion of a set of data from its average
+STOCH,Stochastic oscillator measures the current price relative to its price range over a specified period
+STOCHF,Fast Stochastic measures the current price relative to its price range over a specified period
+STOCHRSI,Stochastic RSI applies Stochastic oscillator to RSI values
+SUB,Subtract values
+SUM,Sum of values over a specified period
+SUPERTREND,Supertrend indicator measures trend direction and potential reversals
+SUPERTREND_HEIKINASHICANDLES,Supertrend indicator using Heikin Ashi Candles for filtering market noise and with improved growth detection
+T3MA,Triple Exponential Moving Average is a faster moving average
+TEMA,Triple Exponential Moving Average is a faster and more responsive moving average
+TRANGE,"True Range measures the greatest of the following: the distance between the current high and low, the distance between the previous close and the current high, or the distance between the previous close and the current low"
+TRIMA,Triangular Moving Average is a smoother moving average
+TSF,Time Series Forecast projects future price levels based on historical data
+TYPPRICE,"Typical Price is the average of the high, low, and closing prices"
+ULTOSC,Ultimate Oscillator measures buying and selling pressure using multiple timeframes
+VAR,Variance measures the spread of a set of data from its average
+VWAP,Volume Weighted Average Price measures the average price of a security weighted by the volume traded
+WCLPRICE,"Weighted Close Price is the average of the high, low, and closing prices, weighted by the closing price"
+WILLR,Williams Percent Range measures overbought or oversold levels of a security
+WMA,Weighted Moving Average is a moving average that gives more weight to recent prices
